@@ -1,4 +1,4 @@
-# ResenasMix 🎮
+# ReseñasMix 🎮
 
 ResenasMix es una API REST desarrollada con Spring Boot que funciona como el backend de una página web de reseñas de videojuegos.  
 El sistema permite administrar usuarios, videojuegos y reseñas, además de consumir APIs externas para obtener información adicional sobre videojuegos y clima.
